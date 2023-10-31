@@ -1,10 +1,13 @@
 # NAME: Emby
-# 个人收集 emby小众
-
+# AUTHOR: gtxy22
+# REPO: https://github.com/justdoiting/emby-rules
+# UPDATED: 2023-10-07 14:22:23
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 4
+# PROCESS-NAME: 0
+# TOTAL: 4
 payload:
-  - DOMAIN-SUFFIX,ccmdls.adobe.com
-  - DOMAIN-SUFFIX,emby.pilipiliultra.top
-  - DOMAIN-SUFFIX,*.windowsupdate.com
   - DOMAIN-SUFFIX,emby.pilipiliultra.top
   - DOMAIN-SUFFIX,emby.pilipiliultra.com
   - DOMAIN-SUFFIX,pilipili.mikuu.link
