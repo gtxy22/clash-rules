@@ -1,10 +1,11 @@
 # NAME: Emby
 # 个人收集 emby小众
+
 payload:
-    - DOMAIN-SUFFIX,ccmdls.adobe.com
-    - DOMAIN-SUFFIX,emby.pilipiliultra.top
-    - DOMAIN-SUFFIX,*.windowsupdate.com
-    - DOMAIN-SUFFIX,emby.pilipiliultra.top
-    - DOMAIN-SUFFIX,emby.pilipiliultra.com
-    - DOMAIN-SUFFIX,pilipili.mikuu.link
-    - DOMAIN-SUFFIX,146.56.36.1
+  - DOMAIN-SUFFIX,ccmdls.adobe.com
+  - DOMAIN-SUFFIX,emby.pilipiliultra.top
+  - DOMAIN-SUFFIX,*.windowsupdate.com
+  - DOMAIN-SUFFIX,emby.pilipiliultra.top
+  - DOMAIN-SUFFIX,emby.pilipiliultra.com
+  - DOMAIN-SUFFIX,pilipili.mikuu.link
+  - DOMAIN-SUFFIX,146.56.36.1
