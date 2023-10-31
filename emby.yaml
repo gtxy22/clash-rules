@@ -11,4 +11,4 @@ payload:
   - DOMAIN-SUFFIX,emby.pilipiliultra.top
   - DOMAIN-SUFFIX,emby.pilipiliultra.com
   - DOMAIN-SUFFIX,pilipili.mikuu.link
-  - IP-CIDR,146.56.36.1
+  - IP-CIDR,146.56.36.1/24
