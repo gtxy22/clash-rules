@@ -1,0 +1,10 @@
+# NAME: Emby
+# 个人收集 emby小众
+payload: # rules最前面增加一个规则
+    - DOMAIN-SUFFIX,ccmdls.adobe.com
+    - DOMAIN-SUFFIX,emby.pilipiliultra.top
+    - DOMAIN-SUFFIX,*.windowsupdate.com
+    - DOMAIN-SUFFIX,emby.pilipiliultra.top
+    - DOMAIN-SUFFIX,emby.pilipiliultra.com
+    - DOMAIN-SUFFIX,pilipili.mikuu.link
+    - DOMAIN-SUFFIX,146.56.36.1
