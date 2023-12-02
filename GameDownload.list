@@ -1,0 +1,61 @@
+DOMAIN-SUFFIX-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,csgo.wmsj.cn
+DOMAIN-SUFFIX,dota2.wmsj.cn
+DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com
+DOMAIN-SUFFIX,steampowered.com.8686c.com
+DOMAIN-SUFFIX,steamstatic.com.8686c.com
+DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #华为云
+DOMAIN-SUFFIX,st.dl.eccdnx.com #白山云
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com #金山云
+DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com #网宿云
+DOMAIN-SUFFIX,steam.eca.qtlglb.com #网宿云国际
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+DOMAIN-SUFFIX,steam.ru.qtlglb.com
+DOMAIN-SUFFIX,steam.apac.qtlglb.com
+DOMAIN-SUFFIX,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,lv.queniujq.cn
+# Steam非中国大陆地区游戏下载/社区实况直播
+#edgecast
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+# Steam国际创意工坊下载CDN
+DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net #CDN-Akamai
+# Origin游戏下载
+DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com #CDN-Level3
+DOMAIN-SUFFIX,origin-a.akamaihd.net #CDN-Akamai
+# Battle.net战网中国大陆地区游戏下载
+DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn #华为云
+DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn #网宿云
+# Battle.net战网非中国大陆地区游戏下载
+DOMAIN-SUFFIX,level3.blizzard.com #CDN-Level3
+DOMAIN-SUFFIX,blzddist1-a.akamaihd.net #CDN-Akamai
+DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
+DOMAIN-SUFFIX,kr.cdn.blizzard.com #CDN-Blizzard
+DOMAIN-SUFFIX,us.cdn.blizzard.com
+DOMAIN-SUFFIX,eu.cdn.blizzard.com
+# Epic Games中国大陆地区游戏下载
+DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
+# Epic Games非中国大陆地区游戏下载
+DOMAIN-SUFFIX,epicgames-download1.akamaized.net #CDN-Akamai
+DOMAIN-SUFFIX,download.epicgames.com #CDN-Amazon
+DOMAIN-SUFFIX,download2.epicgames.com
+DOMAIN-SUFFIX,download3.epicgames.com
+DOMAIN-SUFFIX,download4.epicgames.com
+# Rockstar Launcher客户端更新/游戏更新/游戏下载
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+# GOG中国大陆游戏下载/客户端更新
+DOMAIN-SUFFIX,gog.qtlglb.com
+# GOG非中国大陆游戏下载/客户端更新
+DOMAIN-SUFFIX,cdn.gog.com
+DOMAIN-SUFFIX,galaxy-client-update.gog.com
