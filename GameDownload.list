@@ -30,24 +30,24 @@ DOMAIN-SUFFIX,lv.queniujq.cn
 #edgecast
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 # Steam国际创意工坊下载CDN
-DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net #CDN-Akamai
+DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 # Origin游戏下载
-DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com #CDN-Level3
-DOMAIN-SUFFIX,origin-a.akamaihd.net #CDN-Akamai
+DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
+DOMAIN-SUFFIX,origin-a.akamaihd.net
 # Battle.net战网中国大陆地区游戏下载
 DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn 
 DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn 
 # Battle.net战网非中国大陆地区游戏下载
 DOMAIN-SUFFIX,level3.blizzard.com #CDN-Level3
-DOMAIN-SUFFIX,blzddist1-a.akamaihd.net #CDN-Akamai
+DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
 DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
-DOMAIN-SUFFIX,kr.cdn.blizzard.com #CDN-Blizzard
+DOMAIN-SUFFIX,kr.cdn.blizzard.com
 DOMAIN-SUFFIX,us.cdn.blizzard.com
 DOMAIN-SUFFIX,eu.cdn.blizzard.com
 # Epic Games中国大陆地区游戏下载
 DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
 # Epic Games非中国大陆地区游戏下载
-DOMAIN-SUFFIX,epicgames-download1.akamaized.net #CDN-Akamai
+DOMAIN-SUFFIX,epicgames-download1.akamaized.net
 DOMAIN-SUFFIX,download.epicgames.com
 DOMAIN-SUFFIX,download2.epicgames.com
 DOMAIN-SUFFIX,download3.epicgames.com
