@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,origin-a.akamaihd.net
 DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn 
 DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn 
 # Battle.net战网非中国大陆地区游戏下载
-DOMAIN-SUFFIX,level3.blizzard.com #CDN-Level3
+DOMAIN-SUFFIX,level3.blizzard.com
 DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
 DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
 DOMAIN-SUFFIX,kr.cdn.blizzard.com
