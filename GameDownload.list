@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,wmsjsteam.com
