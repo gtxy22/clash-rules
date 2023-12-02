@@ -14,13 +14,13 @@ DOMAIN-SUFFIX,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamstatic.com.8686c.com
-DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #华为云
-DOMAIN-SUFFIX,st.dl.eccdnx.com #白山云
+DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com 
+DOMAIN-SUFFIX,st.dl.eccdnx.com 
 DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-DOMAIN-SUFFIX,dl.steam.clngaa.com #金山云
-DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com #网宿云
-DOMAIN-SUFFIX,steam.eca.qtlglb.com #网宿云国际
+DOMAIN-SUFFIX,dl.steam.clngaa.com 
+DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com 
+DOMAIN-SUFFIX,steam.eca.qtlglb.com 
 DOMAIN-SUFFIX,steam.naeu.qtlglb.com
 DOMAIN-SUFFIX,steam.ru.qtlglb.com
 DOMAIN-SUFFIX,steam.apac.qtlglb.com
@@ -35,8 +35,8 @@ DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net #CDN-Akamai
 DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com #CDN-Level3
 DOMAIN-SUFFIX,origin-a.akamaihd.net #CDN-Akamai
 # Battle.net战网中国大陆地区游戏下载
-DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn #华为云
-DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn #网宿云
+DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn 
+DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn 
 # Battle.net战网非中国大陆地区游戏下载
 DOMAIN-SUFFIX,level3.blizzard.com #CDN-Level3
 DOMAIN-SUFFIX,blzddist1-a.akamaihd.net #CDN-Akamai
@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,eu.cdn.blizzard.com
 DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
 # Epic Games非中国大陆地区游戏下载
 DOMAIN-SUFFIX,epicgames-download1.akamaized.net #CDN-Akamai
-DOMAIN-SUFFIX,download.epicgames.com #CDN-Amazon
+DOMAIN-SUFFIX,download.epicgames.com
 DOMAIN-SUFFIX,download2.epicgames.com
 DOMAIN-SUFFIX,download3.epicgames.com
 DOMAIN-SUFFIX,download4.epicgames.com
