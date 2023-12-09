@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,cm.steampowered.com
+# 域名检测 api （猜测
+DOMAIN-SUFFIX,api.steampowered.com 
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamchina.com
@@ -28,7 +30,7 @@ DOMAIN-SUFFIX,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,lv.queniujq.cn
 #edgecast
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
-# Steam 
+# Steam 国外
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 #Origin
 DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
