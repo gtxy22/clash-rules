@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,steam.ru.qtlglb.com
 DOMAIN-SUFFIX,steam.apac.qtlglb.com
 DOMAIN-SUFFIX,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,lv.queniujq.cn
-DOMAIN-SUFFIX,*.steamserver.net
+# DOMAIN-SUFFIX,*.steamserver.net
 # steam ip 
 IP-CIDR,103.10.124.0/24
 IP-CIDR,102.10.125.0/24
