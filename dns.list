@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,xxxxx.dns.nextdns.io
+DOMAIN-SUFFIX,dns.nextdns.io
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,dns11.quad9.net
@@ -6,9 +6,14 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,dns-unfiltered.adguard.com
 DOMAIN-SUFFIX,a.passcloud.xyz
 DOMAIN-SUFFIX,doh.opendns.com
-DOMAIN-SUFFIX,common.dot.dns.yandex.net
+DOMAIN-SUFFIX,dns.yandex.net
 DOMAIN-SUFFIX,dns.233py.com
-DOMAIN-SUFFIX,dns.twnic.tw
+DOMAIN-SUFFIX,one.one.one.one
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dns.opendns.com
+DOMAIN-SUFFIX,dns.cleanbrowsing.org
+DOMAIN-SUFFIX,doh.powerdns.org
 IP-CIDR,8.8.8.8/32
 IP-CIDR,8.8.4.4/32
 IP-CIDR,1.1.1.1/32
